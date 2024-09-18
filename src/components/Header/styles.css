@@ -1,0 +1,28 @@
+header{
+    height: 70px;
+    background-color: var(--color-bg-secondary);
+    color: var(--color-font-secondary);
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 400;   
+
+}
+header a {
+    color: var(--color-font-secondary);
+    margin-left: 20px;      
+    text-decoration: none;  
+}
+
+.nav-notSelectedPrimary{
+    color: var(--color-font-secondary);
+    font-weight: 700;
+}
+
+.nav-SelectedPrimary{
+    color: var(--color-font-secondary);
+}
+
+.container img{
+    float: right;
+}

@@ -1,5 +1,9 @@
 export default function Sobrenos(){
     return(
-        <h1>Sobre nós</h1>
+        <>
+            <section className="containerBody">
+            <h2>Sobre nós</h2>
+            </section>
+        </>
     );
 }

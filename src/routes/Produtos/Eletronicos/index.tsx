@@ -1,10 +1,11 @@
 export default function Eletronicos(){
     return(
         <>
-
-            <p>Eletronico 01</p>
-            <p>Eletronico 02</p>
-            <p>Eletronico 03</p>
+            <section className="containerBody">
+                <p>Eletrônico 01</p>
+                <p>Eletrônico 02</p>
+                <p>Eletrônico 03</p>
+            </section>
         
         </>
     );

@@ -1,0 +1,22 @@
+.customSubMenu{
+    height: 60px;
+    width: 960px;
+    background-color: var(--color-bg-tertiary);
+    display: flex;
+    align-items: center;
+}
+
+.customSubMenu a{
+    color: var(--color-font-primary);
+    margin-left: 20px;      
+    text-decoration: none;  
+}
+
+.nav-notSelectedSub{
+    color: var(--color-font-primary);
+    font-weight: 700;
+}
+
+.nav-SelectedSub{
+    color: var(--color-font-primary);
+}

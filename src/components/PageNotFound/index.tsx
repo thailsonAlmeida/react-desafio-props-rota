@@ -1,7 +1,9 @@
 export default function PageNotFound(){
     return(
-        <main style={{ padding: "1rem" }}>
-            <p>Página não encontrada!</p>
-        </main>
+        <>
+            <section className="containerBody">
+            <h2>Não encontrado!</h2>
+            </section>
+        </>
     );
 }

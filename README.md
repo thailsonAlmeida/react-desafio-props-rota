@@ -1,4 +1,11 @@
 # Competencias
+- Rotas com React Router DOM.
+
+- Sub-rotas.
+
+- Estruturação de layout com rotas e sub-rotas.
+
+- Rota padrão de página não encontrada.
 
 # Requisitos
 - Três links da barra de navegação superior funcionando (Início, Produtos, Sobre nós).
