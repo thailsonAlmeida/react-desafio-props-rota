@@ -1,3 +1,34 @@
+# Competencias
+
+# Requisitos
+- Três links da barra de navegação superior funcionando (Início, Produtos, Sobre nós).
+
+- Rota ativa da barra superior destacada na barra superior.
+
+- Link 'home' (casinha no canto superior direito) funcionando.
+
+- Três links da barra de navegação de produtos funcionando (Computadores, Eletrônicos, Livros).
+
+- Rota ativa da barra de navegação de produtos destacada.
+
+- Página 'Não encontrado' deve aparecer para qualquer rota não configurada.
+
+- As rotas, bem como as pastas dos componentes, devem seguir a hierarquia indicada no enunciado do desafio.
+
+```
+  - "/"
+  - "home"
+  - "products/"
+    - "computers"
+    - "electronics"
+    - "books"
+  - "about"
+```
+
+# Dependencias
+
+`yarn add react-router-dom@6.4.1 @types/react-router-dom@5.3.3`
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
